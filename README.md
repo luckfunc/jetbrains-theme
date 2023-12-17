@@ -1,2 +1,2 @@
-# jetbrains-theme-
+# jetbrains-theme
 Jetbrains Theme 
